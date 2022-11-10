@@ -8,4 +8,4 @@ reciPy is a graphical user-interface implementation of the mealDataBase.
 
 #
 
-Originally the project was written in under three days during Oregon State University's BeaverHacks. Since then, I (Han) have revisited and cleaned up the code with my limited python knowledge. The project is now considered complete and depreciated.
+Originally the project was written in under three days during Oregon State University's BeaverHacks. Since then, I have revisited and cleaned up the code with my limited python knowledge. The project is now considered complete and depreciated.
